@@ -1,0 +1,35 @@
+{
+  "hangman": "Hirsipuu",
+  "story": "Tarina",
+  "continue": "Jatka",
+  "story_content": "Olet valtiolle työskentelevä salainen agentti. Eräänä päivänä saat salaisen tehtävän, jossa soluttaudut rikollisorganisaatioon. Yrität saada heidän luottamuksensa osallistumalla pankkiryöstöön, mutta rikostoverisi päättävätkin kolkata sinut rikospaikalle. Viranomaiset löytävät sinut tajuttomana rikospaikalta ja toteavat sinut syylliseksi.<br><br> Tajuttomana ollessasi saat kuolemantuomion, ja hirsipuuta on jo aloitettu kasaamaan! Valtio antoi sinulle onneksi salaisen avainsanan juuri tällaisia tilanteita varten - isku päähän valitettavasti sai sinut unohtamaan, mikä kyseinen sana oli.<br><br>Tiedät, että hirttäjä tietää salaisen sanan. Agenttitaidoillasi osaat lukea hänen kasvonpiirteitään ja siten voit aakkosia kyselemällä päätellä, mitä aakkosia sanaan kuuluu. Aikaa on kuitenkin hyvin rajoitetusti, joten sinulla on rajoitettu määrä aakkosarvauksia.<br><br>Kykenetkö arvaamaan sanan ennen hirsipuun valmistumista ja selviytymään tästä pulmallisesta tilanteesta?",
+
+  "victory": "Voitit!",
+  "game_over": "Hävisit!",
+  "victory_message": "Arvasit oikein, oikea sana oli ",
+  "game_over_message": "Arvasit väärin liian monta kertaa ja jouduit hirtetyksi.<br><br>Oikea vastaus olisi ollut ",
+  "play_again": "Pelaa uudestaan",
+
+  "statistics": "Tilastot",
+  "games": "Pelit",
+  "victories": "Voitot",
+  "losses": "Tappiot",
+  "reset": "Resetoi",
+  "delete_statistics": "Poista tilastotiedot?",
+  "delete_message": "Tämä poistaa kaikki nykyiset tilastotiedot - tätä ei voi peruuttaa.",
+  "cancel": "Peruuta",
+
+  "settings": "Asetukset",
+  "language": "Kieli",
+  "dictionary": "Sanakirja",
+  "english": "Englanti",
+  "finnish": "Suomi",
+  "swedish": "Ruotsi",
+  "difficulty": "Vaikeusaste",
+  "easy": "Helppo",
+  "medium": "Keskivaikea",
+  "hard": "Vaikea",
+  "online_mode": "Online-tila",
+  "setting_info": "<b>Kieli</b>:<br>Sovelluksen kieli.<br><br><b>Sanakirja:</b><br>Pelin käyttämät sanat.<br><br><b>Vaikeusaste:</b><br> Määrittää arvausyrityksien lukumäärän. Englannin netistä haetut sanat ovat myös harvinaisempia isommilla vaikeusasteilla.<br><br><b>Online-tia:</b><br>Jos on päällä, englanninkielisen sanakirjan sanat haetaan internetistä, mikäli yhteys on käytettävissä. Muutoin sanat haetaan paikallisesta muistista. Muut kielet eivät käytä internet-yhteyttä.",
+  "close": "sulje"
+}
